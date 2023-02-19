@@ -1,6 +1,8 @@
+---
 layout: page
-title: "RESUME"
-permalink: /RESUME
+title: "Resume"
+permalink: /resume
+---
 
 # John Doe
 
