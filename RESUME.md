@@ -1,7 +1,5 @@
 ---
-layout: default
 title: "Resume"
-permalink: /resume
 ---
 
 # John Doe
